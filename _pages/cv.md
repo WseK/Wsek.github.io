@@ -31,8 +31,7 @@ Data Mining in IoT devices; Robortics; Human-Computer Interaction
 
 RESEARCH EXPERIENCE
 ======
-* <p style="text-align:left;"><b>Exploited the self-attention mechanism in gas sensor array data</b><span style="float:right;">2020 - Present</span></p>
-  
+* <p style="text-align:left;"><b>Exploited the self-attention mechanism in gas sensor array data</b> <span style="float:right;">2020 - Present</span></p>  
   * Analogized between NLP concepts and temporal signals to verify the presence of self-attention
    mechanisms in signals
   * Verification of the effect on the self-attentive mechanism in terms of signal sampling frequency
