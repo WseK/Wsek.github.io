@@ -16,7 +16,7 @@ redirect_from:
 EDUCATION
 ======
 * **B.S. in Electrical & Electronic Engineering**
-  <p style="text-align:left;"><font color=red>Southern University of Science and Technology, Shenzhen, China</font> <span style="float:right;"><font color=gray>Fall 2016 - June 2020</font></span></p>  
+  <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China</font> <span style="float:right;"><font color=gray>Fall 2016 - June 2020</font></span></p>  
   GPA: 3.78/4 88%
   
 * **M.S. in Electrical & Electronic Engineering**
@@ -32,7 +32,7 @@ Data Mining in IoT devices; Robortics; Human-Computer Interaction
 RESEARCH EXPERIENCE
 ======
 * <p style="text-align:left;"><b>Exploited the self-attention mechanism in gas sensor array data</b> <span style="float:right;">2020 - Present</span></p>  
-  * <div style="widht:75vw;height:100%;word-wrap: break-word">Analogized between NLP concepts and temporal signals to verify the presence of self-attention
+  * <div style="widht:50vw;height:100%;word-wrap: break-word">Analogized between NLP concepts and temporal signals to verify the presence of self-attention
    mechanisms in signals</div>
   * Verification of the effect on the self-attentive mechanism in terms of signal sampling frequency
    and signal quantization level
