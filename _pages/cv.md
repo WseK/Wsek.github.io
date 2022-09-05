@@ -16,11 +16,11 @@ redirect_from:
 EDUCATION
 ======
 * **B.S. in Electrical & Electronic Engineering**
-  <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China <span style="float:right;">Fall 2016 - June 2020</font></span></p>  
+  <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China <span style="float:right;">Fall 2016 - June 2020</span></p></font>  
   GPA: 3.78/4 88%
   
 * **M.S. in Electrical & Electronic Engineering**
-  <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China <span style="float:right;">Fall 2020 - Present</font></span></p>
+  <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China <span style="float:right;">Fall 2020 - Present</span></p></font>
   GPA: 3.39/4 86%  
   
   
@@ -31,7 +31,7 @@ Data Mining in IoT devices; Robortics; Human-Computer Interaction
 
 RESEARCH EXPERIENCE
 ======
-* <p style="text-align:left;"><b>Exploited the self-attention mechanism in gas sensor array data<b><span style="float:right;">2020 - Present</span></p>
+* <p style="text-align:left;"><b>Exploited the self-attention mechanism in gas sensor array data</b><span style="float:right;">2020 - Present</span></p>
   
   * Analogized between NLP concepts and temporal signals to verify the presence of self-attention
    mechanisms in signals
@@ -39,7 +39,7 @@ RESEARCH EXPERIENCE
    and signal quantization level
 
 
-* <p style="text-align:left;">Modified Spiking Neural Network architecture for performance acceleration <span style="float:right;">2020 - Present</span></p>
+* <p style="text-align:left;"><b>Modified Spiking Neural Network architecture for performance acceleration</b> <span style="float:right;">2020 - Present</span></p>
   * Simplified the original network structure to reduce the number of operations and storage space
   * Explored the effect of the simplified structure versus the original structure on the accuracy of the
    results for the same data set
