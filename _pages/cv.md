@@ -24,12 +24,13 @@ EDUCATION
   GPA: 3.39/4 86%
 
 RESEARCH INTERESTS
-=====
-Data Mining in IoT devices; Robortics; Human-Computer Interaction.
+======
+Data Mining in IoT devices; Robortics; Human-Computer Interaction  
+
 
 RESEARCH EXPERIENCE
 ======
-* **<p style="text-align:left;">Exploited the self-attention mechanism in gas sensor array data** <span style="float:right;">2020 - Present</span></p>
+* **<p style="text-align:left;">Exploited the self-attention mechanism in gas sensor array data**<span style="float:right;">2020 - Present</p>
 
   * Analogized between NLP concepts and temporal signals to verify the presence of self-attention
    mechanisms in signals
@@ -57,9 +58,11 @@ HONORS AND AWARDS
 Publications
 ======
 **Ningning, Wang**., Silong, Li. (2022). *Exploiting the Self-Attention Mechanism in Gas Sensor Array
- Data with Neural Networks*. **Under review**.
+ Data with Neural Networks*. **Under review**.  
+
 Silong, Li., **Ningning, Wang**. (2022). *Software and Hardware Co-design Method for Spiking Neural
- Networks*. **In preparation**.
+ Networks*. **In preparation**.  
+
 
 SKILLS
 ======
