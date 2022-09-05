@@ -9,51 +9,71 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!-- <center>诶嘿</center> <p align="right">诶嘿</p>
+<p style="text-align:left;">一部分文字<span style="float:right;">另一部分文字</span></p>
+<p style="text-align:left;"><span style="float:right;"></span></p> -->
 
-Work experience
+EDUCATION
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **B.S. in Electrical & Electronic Engineering**
+  <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China <span style="float:right;">Fall 2016 - June 2020</span></p></font>  
+  GPA: 3.78/4 88%
   
-Skills
+* **M.S. in Electrical & Electronic Engineering**
+  <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China <span style="float:right;">Fall 2020 - Present</span></p></font>
+  GPA: 3.39/4 86%
+
+RESEARCH INTERESTS
+=====
+Data Mining in IoT devices; Robortics; Human-Computer Interaction.
+
+RESEARCH EXPERIENCE
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **<p style="text-align:left;">Exploited the self-attention mechanism in gas sensor array data** <span style="float:right;">2020 - Present</span></p>
+
+  * Analogized between NLP concepts and temporal signals to verify the presence of self-attention
+   mechanisms in signals
+  * Verification of the effect on the self-attentive mechanism in terms of signal sampling frequency
+   and signal quantization level
+
+
+* **<p style="text-align:left;">Modified Spiking Neural Network architecture for performance acceleration** <span style="float:right;">2020 - Present</span></p>
+  * Simplified the original network structure to reduce the number of operations and storage space
+  * Explored the effect of the simplified structure versus the original structure on the accuracy of the
+   results for the same data set
+
+
+HONORS AND AWARDS
+======
+* <p style="text-align:left;">The 4th National College Students Integrated Circuit Innovation and Entrepreneurship Competition<span style="float:right;">Fall 2020</span></p>
+
+  * Entry prize(The first 40% of the preliminary round)
+
+* <p style="text-align:left;">Third-class scholarship for school academic<span style="float:right;">Each year from 2016 to 2020</span></p>
+
+  * The top 20% of GPA　can be obtained
+ 
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+**Ningning, Wang**., Silong, Li. (2022). *Exploiting the Self-Attention Mechanism in Gas Sensor Array
+ Data with Neural Networks*. **Under review**.
+Silong, Li., **Ningning, Wang**. (2022). *Software and Hardware Co-design Method for Spiking Neural
+ Networks*. **In preparation**.
+
+SKILLS
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Programming languages: MATLAB, Python
+* Operating System: Linux, ROS
+
   
-Teaching
+UNIVERSITY SERVICE
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Teaching Assistant**
+*Responsible for teaching assistants for two courses*
+* <p style="text-align:left;">Design of Modern Communication Systems<span style="float:right;">Spring 2021</span></p>
+* <p style="text-align:left;">Integrated Circuit Design with EDA Design Methodology<span style="float:right;">Spring 2022</span></p>
   
-Service and leadership
+LANGUAGES
 ======
-* Currently signed in to 43 different slack teams
+English: TOEFL 90
