@@ -16,14 +16,14 @@ redirect_from:
 EDUCATION
 ======
 * **B.S. in Electrical & Electronic Engineering**
-  <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China <span style="float:right;">Fall 2016 - June 2020</span></p></font>  
+  <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China <span style="float:right;">Fall 2016 - June 2020</font></span></p>  
   GPA: 3.78/4 88%
   
 * **M.S. in Electrical & Electronic Engineering**
-  <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China <span style="float:right;">Fall 2020 - Present</span></p></font>
+  <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China <span style="float:right;">Fall 2020 - Present</font></span></p>
   GPA: 3.39/4 86%  
   
-
+  
 RESEARCH INTERESTS
 ======
 Data Mining in IoT devices; Robortics; Human-Computer Interaction  
