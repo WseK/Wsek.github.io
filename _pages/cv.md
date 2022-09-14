@@ -26,7 +26,7 @@ EDUCATION
   
 RESEARCH INTERESTS
 ======
-Data Mining in IoT devices; Robortics; Human-Computer Interaction  
+Data Mining in IoT devices; Robotics; Human-Computer Interaction  
 
 
 RESEARCH EXPERIENCE
