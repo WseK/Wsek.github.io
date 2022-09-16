@@ -58,7 +58,7 @@ HONORS AND AWARDS
 Publications
 ======
 **Ningning, Wang**., Silong, Li. (2022). *Exploiting the Self-Attention Mechanism in Gas Sensor Array
- Data with Neural Networks*. IEEE Sensors Journal **Under review**.  
+ Data with Neural Networks*. IEEE Sensors Journal. **Under review**.  
 
 Silong, Li., **Ningning, Wang**. (2022). *Software and Hardware Co-design Method for Spiking Neural
  Networks*. **In preparation**.  
