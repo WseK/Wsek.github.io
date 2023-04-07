@@ -15,18 +15,18 @@ redirect_from:
 
 EDUCATION
 ======
-* **B.S. in Electrical & Electronic Engineering**
+* **B.S. in Electrical & Electronics Engineering**
   <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China</font> <span style="float:right;"><font color=gray>Fall 2016 - June 2020</font></span></p>  
   GPA: 3.73/4 89.3%
   
-* **M.S. in Electrical & Electronic Engineering**
+* **M.S. in Electrical & Electronics Engineering**
   <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China</font> <span style="float:right;"><font color=gray>Fall 2020 - Present</font></span></p>
   GPA: 3.39/4 86%  
   
   
 RESEARCH INTERESTS
 ======
-Data Mining in IoT devices; Robotics; Human-Computer Interaction  
+Data Mining in IoT devices; Wireless Sensing; Human-Computer Interaction  
 
 
 RESEARCH EXPERIENCE
@@ -57,11 +57,9 @@ HONORS AND AWARDS
 
 Publications
 ======
-**Ningning, Wang**., Silong, Li. (2022). *Exploiting the Self-Attention Mechanism in Gas Sensor Array
- Data with Neural Networks*. IEEE Sensors Journal. **Under review**.  
+[1] **Ningning Wang**, Silong Li, and Terry Tao Ye, “Exploiting the Self-Attention Mechanism in Gas Sensor Array (GSA) Data With Neural Networks,” IEEE Sensors Journal, vol. 23, no. 6, pp. 5988–5996, Mar. 2023, doi: 10.1109/JSEN.2023.3240470.
 
-Silong, Li., **Ningning, Wang**. (2022). *Software and Hardware Co-design Method for Spiking Neural
- Networks*. **In preparation**.  
+[2] Silong Li, **Ningning Wang**, Xingyu Kang and Terry Tao Ye, "Mitigating the Memory and Computation Overhead to Implement Spiking Convolutional Neural Networks," Neural Computing and Applications. Under review.  
 
 
 SKILLS
