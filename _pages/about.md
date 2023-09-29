@@ -10,7 +10,7 @@ redirect_from:
 About me
 =====
 
-Hi, this is Ningning Wang and it's my personal website. I am a graduating Masters students and looking for Ph.D. opportunities. So if you are looking for a PhD student, check my CV and contact me. Maybe we can have a good doctoral time together.
+Hi, this is Ningning Wang and it's my personal website. I am a Ph.D student in Florida International University. 
 
 Other things
 ======
