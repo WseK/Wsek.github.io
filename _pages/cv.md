@@ -17,11 +17,11 @@ EDUCATION
 ======
 * **B.S. in Electrical & Electronics Engineering**
   <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China</font> <span style="float:right;"><font color=gray>Fall 2016 - June 2020</font></span></p>  
-  [comment]: <> (GPA: 3.73/4 89.3%)
+ <!-- (GPA: 3.73/4 89.3%)-->
   
 * **M.S. in Electrical & Electronics Engineering**
   <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China</font> <span style="float:right;"><font color=gray>Fall 2020 - Present</font></span></p>
-  [comment]: <> (GPA: 3.39/4 86%)  
+  <!--(GPA: 3.39/4 86%)-->
   
   
 RESEARCH INTERESTS
