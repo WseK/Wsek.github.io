@@ -10,7 +10,7 @@ redirect_from:
 About me
 =====
 
-Hi, this is Ningning Wang and it's my personal website. I am a Ph.D student in Florida International University. 
+Hi, this is Ningning Wang and it's my personal website. I am a Ph.D student in Florida International University at present. 
 
 Other things
 ======
