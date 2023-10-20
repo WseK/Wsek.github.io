@@ -69,7 +69,7 @@ SKILLS
 ======
 * Programming languages: MATLAB; Python
 * Operating System: Linux; ROS
-* Skills: ANSYS HFSS; ADS; Altium Designer; Familiar with the whole process of silicon-based wafer clean room processing
+* Skills: ANSYS HFSS; ADS; Altium Designer; Familiar with the whole process of silicon-based wafer processing
 
   
 UNIVERSITY SERVICE
