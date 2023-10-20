@@ -15,30 +15,33 @@ redirect_from:
 
 EDUCATION
 ======
+* **Ph.D. in Computer Science**
+  <p style="text-align:left;"><font color=gray>Florida International University, Florida, USA </font> <span style="float:right;"><font color=gray>Fall 2023 - At present</font></span></p>  
+ <!-- (GPA: 3.73/4 89.3%)-->
 * **B.S. in Electrical & Electronics Engineering**
   <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China</font> <span style="float:right;"><font color=gray>Fall 2016 - June 2020</font></span></p>  
- <!-- (GPA: 3.73/4 89.3%)-->
+ (GPA: 3.73/4 89.3%)
   
 * **M.S. in Electrical & Electronics Engineering**
   <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China</font> <span style="float:right;"><font color=gray>Fall 2020 - June 2023</font></span></p>
-  <!--(GPA: 3.39/4 86%)-->
+  (GPA: 3.39/4 86%)
   
   
 RESEARCH INTERESTS
 ======
-Data Mining in IoT devices; Wireless Sensing; Human-Computer Interaction  
+Data Mining in IoT devices; Wireless Sensing; Human-Computer Interaction; Wearable Sensing Devices  
 
 
 RESEARCH EXPERIENCE
 ======
-* <p style="text-align:left;"><b>Exploited the self-attention mechanism in gas sensor array data</b> <span style="float:right;">2020 - Present</span></p>  
+* <p style="text-align:left;"><b>Exploited the self-attention mechanism in gas sensor array data</b> <span style="float:right;">2020 - 2023</span></p>  
   * Analogized between NLP concepts and temporal signals to verify the presence of self-attention
    mechanisms in signals
   * Verification of the effect on the self-attentive mechanism in terms of signal sampling frequency
    and signal quantization level
 
 
-* <p style="text-align:left;"><b>Modified Spiking Neural Network architecture for performance acceleration</b> <span style="float:right;">2020 - Present</span></p>
+* <p style="text-align:left;"><b>Modified Spiking Neural Network architecture for performance acceleration</b> <span style="float:right;">2020 - 2023</span></p>
   * Simplified the original network structure to reduce the number of operations and storage space
   * Explored the effect of the simplified structure versus the original structure on the accuracy of the
    results for the same data set
@@ -64,16 +67,19 @@ Publications
 
 SKILLS
 ======
-* Programming languages: MATLAB, Python
-* Operating System: Linux, ROS
+* Programming languages: MATLAB; Python
+* Operating System: Linux; ROS
+* Skills: ANSYS HFSS; ADS; Altium Designer; Familiar with the whole process of silicon-based wafer clean room processing
 
   
 UNIVERSITY SERVICE
 ======
 **Teaching Assistant**
 *Responsible for teaching assistants for two courses*
-* <p style="text-align:left;">Design of Modern Communication Systems<span style="float:right;">Spring 2021</span></p>
+* <p style="text-align:left;">Computer Architecture<span style="float:right;">Fall 2023</span></p>
 * <p style="text-align:left;">Integrated Circuit Design with EDA Design Methodology<span style="float:right;">Spring 2022</span></p>
+* <p style="text-align:left;">Design of Modern Communication Systems<span style="float:right;">Spring 2021</span></p>
+
   
 LANGUAGES
 ======
