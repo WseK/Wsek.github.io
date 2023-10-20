@@ -22,7 +22,7 @@ EDUCATION
 * **M.S. in Electrical & Electronics Engineering**
   <p style="text-align:left;"><font color=gray>Southern University of Science and Technology, Shenzhen, China</font> <span style="float:right;"><font color=gray>Fall 2020 - June 2023</font></span></p>
   (GPA: 3.39/4 86%)
-  * **Ph.D. in Computer Science**
+* **Ph.D. in Computer Science**
   <p style="text-align:left;"><font color=gray>Florida International University, Florida, USA </font> <span style="float:right;"><font color=gray>Fall 2023 - At present</font></span></p>  
  <!-- (GPA: 3.73/4 89.3%)-->
   
