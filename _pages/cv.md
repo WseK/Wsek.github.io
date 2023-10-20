@@ -62,7 +62,7 @@ Publications
 ======
 1. **Ningning Wang**, Silong Li, and Terry Tao Ye, “Exploiting the Self-Attention Mechanism in Gas Sensor Array (GSA) Data With Neural Networks,” IEEE Sensors Journal, vol. 23, no. 6, pp. 5988–5996, Mar. 2023, doi: 10.1109/JSEN.2023.3240470.
 
-2. Silong Li, **Ningning Wang**, Xingyu Kang and Terry Tao Ye, "qLIF: Mitigating the Memory and Computation Overhead to Implement Spiking Convolutional Neural Networks," Neural Computing and Applications. Under review.  
+2. Silong Li, **Ningning Wang**, Xingyu Kang, Chunlin Yu and Terry Tao Ye, "qLIF: Mitigating the Memory and Computation Overhead to Implement Spiking Convolutional Neural Networks," Neural Computing and Applications. Accepted.  
 
 
 SKILLS
