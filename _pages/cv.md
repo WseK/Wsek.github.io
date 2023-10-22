@@ -29,7 +29,7 @@ EDUCATION
   
 RESEARCH INTERESTS
 ======
-Data Mining in IoT devices; Wireless Sensing; Human-Computer Interaction; Wearable Sensing Devices  
+Wireless Sensing; Human-Computer Interaction; Wearable Sensing Devices  
 
 
 RESEARCH EXPERIENCE
@@ -75,7 +75,7 @@ SKILLS
 UNIVERSITY SERVICE
 ======
 **Teaching Assistant**
-*Responsible for teaching assistants for two courses*
+*Responsible for teaching assistants for three courses*
 * <p style="text-align:left;">Computer Architecture<span style="float:right;">Fall 2023</span></p>
 * <p style="text-align:left;">Integrated Circuit Design with EDA Design Methodology<span style="float:right;">Spring 2022</span></p>
 * <p style="text-align:left;">Design of Modern Communication Systems<span style="float:right;">Spring 2021</span></p>
