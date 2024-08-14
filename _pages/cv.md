@@ -62,8 +62,11 @@ Publications
 ======
 1. **Ningning Wang**, Silong Li, and Terry Tao Ye, “Exploiting the Self-Attention Mechanism in Gas Sensor Array (GSA) Data With Neural Networks,” IEEE Sensors Journal, vol. 23, no. 6, pp. 5988–5996, Mar. 2023, doi: 10.1109/JSEN.2023.3240470.
 
-2. Silong Li, **Ningning Wang**, Xingyu Kang, Chunlin Yu and Terry Tao Ye, "qLIF: Mitigating the Memory and Computation Overhead to Implement Spiking Convolutional Neural Networks," Neural Computing and Applications. Accepted.  
+2. Silong Li, **Ningning Wang**, Xingyu Kang, Chunlin Yu, and Terry Tao Ye, "qLIF: Mitigating the Memory and Computation Overhead to Implement Spiking Convolutional Neural Networks," Neural Computing and Applications. Accepted.  
 
+3. **Ningning Wang**, Tianya Zhao, Shiwen Mao, and Xuyu Wang, "AI Generated Wireless Data for Enhanced Satellite Device Fingerprinting", IEEE ICC 2024 Workshop, pp. 1-6, Jun. 2024.
+
+4. **Ningning Wang**, Tianya Zhao, Shiwen Mao, Harrison X. Bai, Zhicheng Jiao, Xuyu Wang, "ECG-grained Cardiac Monitoring Using RFID", IEEE ICCCN 2024, pp. 1-9, Jul. 2024.
 
 SKILLS
 ======
