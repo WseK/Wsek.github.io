@@ -29,8 +29,8 @@ EDUCATION
   
 RESEARCH INTERESTS
 ======
-Wireless Sensing; Human-Computer Interaction; Wearable Sensing Devices  
-
+Wireless Sensing; Healthcare; Data Augmentation  
+<!--
 
 RESEARCH EXPERIENCE
 ======
@@ -56,17 +56,19 @@ HONORS AND AWARDS
 * <p style="text-align:left;">Third-class scholarship for school academic<span style="float:right;">Each year from 2016 to 2020</span></p>
 
   * The top 20% of GPA　can be obtained
- 
+ -->
 
 Publications
 ======
 1. **Ningning Wang**, Silong Li, and Terry Tao Ye, “Exploiting the Self-Attention Mechanism in Gas Sensor Array (GSA) Data With Neural Networks,” IEEE Sensors Journal, vol. 23, no. 6, pp. 5988–5996, Mar. 2023, doi: 10.1109/JSEN.2023.3240470.
 
-2. Silong Li, **Ningning Wang**, Xingyu Kang, Chunlin Yu, and Terry Tao Ye, "qLIF: Mitigating the Memory and Computation Overhead to Implement Spiking Convolutional Neural Networks," Neural Computing and Applications. Accepted.  
+2. **Ningning Wang**, Tianya Zhao, Shiwen Mao, and Xuyu Wang, "AI Generated Wireless Data for Enhanced Satellite Device Fingerprinting", IEEE ICC 2024 Workshop, pp. 1-6, Jun. 2024.
 
-3. **Ningning Wang**, Tianya Zhao, Shiwen Mao, and Xuyu Wang, "AI Generated Wireless Data for Enhanced Satellite Device Fingerprinting", IEEE ICC 2024 Workshop, pp. 1-6, Jun. 2024.
+3. **Ningning Wang**, Tianya Zhao, Shiwen Mao, Harrison X. Bai, Zhicheng Jiao, Xuyu Wang, "ECG-grained Cardiac Monitoring Using RFID", IEEE ICCCN 2024, pp. 1-9, Jul. 2024.
 
-4. **Ningning Wang**, Tianya Zhao, Shiwen Mao, Harrison X. Bai, Zhicheng Jiao, Xuyu Wang, "ECG-grained Cardiac Monitoring Using RFID", IEEE ICCCN 2024, pp. 1-9, Jul. 2024.
+4. Tianya Zhao, **Ningning Wang**, Guanqun Cao, Shiwen Mao, Xuyu Wang, "Functional Data Analysis Assisted Cross-Domain Wi-Fi Sensing Using Few-Shot Learning", IEEE ICC 2024, pp. 4780-4785, Jun. 2024.
+
+5. Tianya Zhao, **Ningning Wang**, Yanzhao Wu, Wenbin Zhang, Xuyu Wang, "Backdoor attacks against low-earth orbit satellite fingerprinting", IEEE INFOCOM 2024-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), pp. 01-06. IEEE, May 2024.
 
 SKILLS
 ======
